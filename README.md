@@ -6,3 +6,8 @@ A simple **console-based Tetris game built using C++**. The game features random
 
 - **Cross-Platform Support:** Includes separate input and console-handling code for Windows and Unix-like systems.
 
+aeqrhg;igj
+qergefefh qe
+gefgd fghaefhivergefr
+erfleafghgea urighe gr
+vludafhgieru gher
