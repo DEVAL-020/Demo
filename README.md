@@ -87,21 +87,3 @@ tetris.exe
 7. Avoid stacking pieces to the top of the board, or the game will end.
 8. Press `Esc` to quit.
 
-## 📐 Game Details
-
-- **Board Size:** 10 columns × 20 rows.
-- **Piece Types:** 7 classic Tetris shapes.
-- **Scoring:** 100 points per cleared row.
-- **Game Loop:** Updates the display, processes keyboard input, and moves pieces downward at regular intervals.
-
-## 📂 Project Structure
-
-```text
-Tetris/
-├── tetris.cpp
-└── README.md
-```
-
-
-## 👨‍💻 Author
-
