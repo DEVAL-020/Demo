@@ -102,15 +102,6 @@ Tetris/
 └── README.md
 ```
 
-## 🔮 Future Improvements
-
-- Add a next-piece preview.
-- Introduce increasing difficulty as the score grows.
-- Add a hard-drop feature.
-- Improve the scoring system for clearing multiple rows.
-- Add colors to distinguish different pieces.
-- Implement a pause and restart option.
-- Improve keyboard input handling on Linux/macOS.
 
 ## 👨‍💻 Author
 
