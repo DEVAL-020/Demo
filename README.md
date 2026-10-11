@@ -105,8 +105,3 @@ Tetris/
 
 ## 👨‍💻 Author
 
-**Your Name**
-
-## 📄 License
-
-This project is available for educational and personal use. Add a specific open-source license if you intend to distribute it publicly.
