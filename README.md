@@ -76,14 +76,3 @@ tetris.exe
 ./tetris
 ```
 
-## 🕹️ How to Play
-
-1. Start the game from your terminal.
-2. Use `A` and `D` to move the falling piece left or right.
-3. Press `W` to rotate the piece.
-4. Press `S` to move the piece downward faster.
-5. Complete horizontal rows to clear them and earn points.
-6. Keep clearing rows to increase your score.
-7. Avoid stacking pieces to the top of the board, or the game will end.
-8. Press `Esc` to quit.
-
