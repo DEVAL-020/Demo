@@ -13,19 +13,7 @@ A simple **console-based Tetris game built using C++**. The game features random
 - **Game Over Detection:** The game ends when a new piece cannot be placed.
 - **Cross-Platform Support:** Includes separate input and console-handling code for Windows and Unix-like systems.
 
-## 🛠️ Technologies Used
 
-- **Language:** C++
-- **Libraries:** `iostream`, `cstdlib`, `ctime`
-- **Platform-Specific Libraries:**
-dfjgqbdqiuo rhn il  e g
-egf;kjefghiaegrj qe
-grqeggt
-qegf
-dfjadiujgaegha'dfg
-aegjaefg
-aeorg
-soklgtr'ao ehgaEt
 
 aefg
 aegraef
