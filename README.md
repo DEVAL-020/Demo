@@ -26,7 +26,3 @@ A simple **console-based Tetris game built using C++**. The game features random
 | Key | Action |
 |---|---|
 | `A` | Move piece left |
-| `D` | Move piece right |
-| `W` | Rotate piece |
-| `S` | Move piece down faster |
-| `Esc` | Quit the game 
