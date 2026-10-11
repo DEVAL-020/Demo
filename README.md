@@ -18,5 +18,3 @@ A simple **console-based Tetris game built using C++**. The game features random
 - **Language:** C++
 - **Libraries:** `iostream`, `cstdlib`, `ctime`
 - **Platform-Specific Libraries:**
-  - Windows: `conio.h`, `windows.h`
-  - Linux/macOS: `termios.h`, `unistd.h`, `sys/select.h`
