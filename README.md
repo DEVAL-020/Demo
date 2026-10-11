@@ -4,13 +4,6 @@ A simple **console-based Tetris game built using C++**. The game features random
 
 ## 📌 Features
 
-- **Seven Classic Tetris Shapes:** I, O, T, S, Z, J, and L.
-- **Real-Time Controls:** Move and rotate pieces while playing.
-- **Automatic Falling:** Pieces move downward automatically.
-- **Collision Detection:** Prevents pieces from moving through walls or locked blocks.
-- **Line Clearing:** Completed rows are removed from the board.
-- **Score System:** Earn 100 points for each completed row.
-- **Game Over Detection:** The game ends when a new piece cannot be placed.
 - **Cross-Platform Support:** Includes separate input and console-handling code for Windows and Unix-like systems.
 
 
